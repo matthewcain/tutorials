@@ -1,2 +1,2 @@
 # tutorials
-Thee source of code snippets for tutorials on MonsterPost
+Thee code snippets source for tutorials on MonsterPost
