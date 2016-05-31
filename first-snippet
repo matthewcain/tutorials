@@ -1,0 +1,5 @@
+if ( class_exists( 'WP_Customize_Control' ) ) {
+    class TM_Customize_Iconpicker_Control extends WP_Customize_Control {
+
+    }
+}
